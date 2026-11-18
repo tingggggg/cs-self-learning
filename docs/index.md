@@ -16,9 +16,9 @@ Each page records what the course covers, what I implemented, and links to my co
 
 | Course / Project | Links | Status |
 | --- | --- | --- |
+| [RISC-V OS (QEMU)](operating-systems/riscv-os.md) | [Code](https://github.com/tingggggg/riscv-operating-system/tree/main/os) | ✅ |
 | [NTHU OS: NachOS](operating-systems/nthu-nachos.md) | [Code](https://github.com/tingggggg/NTHU_Nachos_Project) | ✅ |
 | [Raspberry Pi OS (ARMv8)](operating-systems/raspberry-pi-os.md) | [Code](https://github.com/tingggggg/OSDIg) · [Notes](https://hackmd.io/@timm/osdi) | ✅ |
-| [RISC-V OS (QEMU)](operating-systems/riscv-os.md) | [Code](https://github.com/tingggggg/riscv-operating-system/tree/main/os) | ✅ |
 
 ### Linux Kernel
 

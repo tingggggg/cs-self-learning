@@ -50,9 +50,9 @@ nav:
   - Software Engineering:
       - "NJU Generative Software Engineering (2026)": software-engineering/nju-gse-2026.md
   - Operating Systems:
+      - "RISC-V OS (QEMU)": operating-systems/riscv-os.md
       - "NTHU OS: NachOS": operating-systems/nthu-nachos.md
       - "Raspberry Pi OS (ARMv8)": operating-systems/raspberry-pi-os.md
-      - "RISC-V OS (QEMU)": operating-systems/riscv-os.md
   - Linux Kernel:
       - "NCKU Linux Kernel Internals: fibdrv": linux-kernel/ncku-linux-kernel.md
   - Computer Vision:
