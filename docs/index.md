@@ -20,6 +20,12 @@ Each page records what the course covers, what I implemented, and links to my co
 | --- | --- | --- |
 | [NCKU Linux Kernel Internals: fibdrv](linux-kernel/ncku-linux-kernel.md) | [Code](https://github.com/tingggggg/fibdrv) · [Notes](https://hackmd.io/@timm/fibdrv) | ✅ |
 
+### Software Engineering
+
+| Course / Project | Links | Status |
+| --- | --- | --- |
+| [NJU Generative Software Engineering (2026)](software-engineering/nju-gse-2026.md) | [Notes](https://github.com/tingggggg/NJU_AI-Native_Software_Engineering_2026) | 🚧 |
+
 ### Computer Vision
 
 | Course / Project | Links | Status |
