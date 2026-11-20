@@ -1,6 +1,6 @@
 # CS Self-Learning
 
-My CS self-learning log: open courses, labs, and side projects, organized by topic. The layout follows [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning).
+My CS self-learning log: open courses, labs, and side projects, organized by topic.
 
 Each page records what the course covers, what I implemented, and links to my code and notes. Status: ✅ done · 🚧 in progress.
 
