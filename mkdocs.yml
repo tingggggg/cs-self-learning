@@ -1,13 +1,13 @@
 site_name: CS Self-Learning
 site_url: https://tingggggg.github.io/cs-self-learning/
-site_author: Syun-Ting Li
+site_author: Syun-Ting Lee
 site_description: >-
-  Syun-Ting Li's CS self-learning log: courses, labs, and side projects, organized by topic.
+  Syun-Ting Lee's CS self-learning log: courses, labs, and side projects, organized by topic.
 
 repo_name: tingggggg/cs-self-learning
 repo_url: https://github.com/tingggggg/cs-self-learning/
 
-copyright: Copyright &copy; 2021-present <a href="https://github.com/tingggggg" target="_blank" rel="noopener noreferrer">Syun-Ting Li</a>
+copyright: Copyright &copy; 2021-present <a href="https://github.com/tingggggg" target="_blank" rel="noopener noreferrer">Syun-Ting Lee</a>
 
 theme:
   name: material
